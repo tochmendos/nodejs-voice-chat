@@ -28,3 +28,7 @@ node index.js
 
 6. Make sure your server is running. If it’s running correctly, you should see the application's user interface where you can start chatting with other users.
 7. <b>Permissions</b>: When prompted, allow the application to access your microphone. This is essential for the voice chat functionality to work properly.
+   
+Links: 
+* [GitHub Repository](https://github.com/tochmendos/nodejs-voice-chat).
+* [hosseinmobarakian](https://dev.to/hosseinmobarakian/create-simple-voice-chat-app-with-nodejs-1b70)
