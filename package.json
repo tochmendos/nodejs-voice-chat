@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-voice-chat",
+  "version": "1.0.0",
+  "description": "This is a web-based voice chat application built using Node.js. The application allows users to communicate with each other through voice in real-time. It features a simple and intuitive interface, enabling seamless interaction among users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-handlebars": "^8.0.1",
+    "socket.io": "^4.8.0"
+  }
+}
